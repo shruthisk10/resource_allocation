@@ -1,10 +1,10 @@
 # resource_allocation
 
-How to Run
-git clone <repository-url>
-cd resource-allocation
-mvn clean install
-mvn spring-boot:run
+How to Run:
+1) git clone <repository-url>
+2) cd resource-allocation
+3) mvn clean install
+4) mvn spring-boot:run
 
 
 
